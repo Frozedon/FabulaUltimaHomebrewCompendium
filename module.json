@@ -1,7 +1,7 @@
 {
-	"name": "frozedon-fabula-ultima-homebrew-compendium",
-	"id": "frozedon-fabula-ultima-homebrew-compendium",
-	"title": "Frozedon's Fabula Ultima Homebrew Compendium",
+	"name": "frozedon-fabula-homebrew-compendium",
+	"id": "frozedon-fabula-homebrew-compendium",
+	"title": "Frozedon's Fabula Homebrew Compendium",
     "authors": [
         {
             "name": "Frozedon"
@@ -17,7 +17,7 @@
 	},
 	"url": "https://github.com/Frozedon/FabulaUltimaHomebrewCompendium",
 	"manifest": "https://github.com/Frozedon/FabulaUltimaHomebrewCompendium/releases/latest/download/module.json",
-	"download": "https://github.com/Frozedon/FabulaUltimaHomebrewCompendium/releases/download/1.0.0/frozedonfabulaultimahomebrewcompendium.zip",
+	"download": "https://github.com/Frozedon/FabulaUltimaHomebrewCompendium/releases/download/1.0.0/frozedonfabulahomebrewcompendium.zip",
 	"packs": [
 		{
 			"label": "Classes",
