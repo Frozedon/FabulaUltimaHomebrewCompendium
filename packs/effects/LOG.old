@@ -1,0 +1,5 @@
+2025/08/29-09:58:08.090 78ec Recovering log #83
+2025/08/29-09:58:08.091 78ec Level-0 table #85: started
+2025/08/29-09:58:08.095 78ec Level-0 table #85: 39308 bytes OK
+2025/08/29-09:58:08.101 78ec Delete type=0 #83
+2025/08/29-09:58:08.102 78ec Delete type=3 #82

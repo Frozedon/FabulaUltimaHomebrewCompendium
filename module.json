@@ -1,0 +1,91 @@
+{
+	"name": "fabula-ultima-homebrew-compendium",
+	"id": "fabula-ultima-homebrew-compendium",
+	"title": "Fabula Ultima Homebrew Compendium",
+    "authors": [
+        {
+            "name": "Frozedon"
+        }
+    ],
+	"description": "Various Homebrew Classes and Items to use in Fabula Ultima.",
+	"version": "1.0.0",
+	"minimumCoreVersion": "11",
+	"compatibleCoreVersion": "12",
+	"compatibility": {
+			"minimum": 11,
+			"verified": 12.331
+	},
+	"url": "",
+	"manifest": "",
+	"download": "",
+	"packs": [
+		{
+			"label": "Classes",
+			"type": "Item",
+			"name": "classes",
+			"path": "packs/classes",
+			"system": "projectfu",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
+			"label": "Class Skills",
+			"type": "Item",
+			"name": "class-skills",
+			"path": "packs/class-skills",
+			"system": "projectfu",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		},
+		{
+		  "label": "Heroic Skills",
+		  "type": "Item",
+		  "name": "heroic-skills",
+		  "path": "packs/heroic-skills",
+		  "system": "projectfu",
+		  "ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+		  },
+		  "flags": {}
+		},
+		{
+			"label": "Effects",
+			"type": "Item",
+			"name": "effects",
+			"path": "packs/effects",
+			"system": "projectfu",
+			"ownership": {
+				"PLAYER": "OBSERVER",
+				"ASSISTANT": "OWNER"
+			},
+			"flags": {}
+		}
+	],
+	"packFolders": [
+		{
+			"name": "FabUlt Homebrew Compendium",
+			"sorting": "m",
+			"folders":[
+				{
+					"name": "Character Creation",
+					"sorting": "m",
+					"color": "#276625",
+					"packs": ["classes", "class-skills", "heroic-skills"]
+				},
+				{
+					"name": "Technical",
+					"sorting": "m",
+					"color": "#A17E1B",
+					"packs": ["effects"]
+				}
+			]
+		}
+	]
+}
