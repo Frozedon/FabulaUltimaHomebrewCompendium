@@ -1,15 +1,6 @@
-2025/08/29-11:08:05.521 8150 Recovering log #95
-2025/08/29-11:08:05.529 8150 Delete type=0 #95
-2025/08/29-11:08:05.529 8150 Delete type=3 #94
-2025/08/29-11:08:35.079 8280 Level-0 table #99: started
-2025/08/29-11:08:35.079 8280 Level-0 table #99: 0 bytes OK
-2025/08/29-11:08:35.081 8280 Delete type=0 #97
-2025/08/29-11:08:35.081 8280 Manual compaction at level-0 from '!folders!24CPhrfpZYNErQnU' @ 72057594037927935 : 1 .. '!items.effects!mBaXmXtd9tm9SZsA.0rWmAHajR43A14Eg' @ 0 : 0; will stop at '!items!u5OQWczvxDiiYH4s' @ 638 : 1
-2025/08/29-11:08:35.081 8280 Compacting 2@0 + 1@1 files
-2025/08/29-11:08:35.090 8280 Generated table #100@0: 149 keys, 109907 bytes
-2025/08/29-11:08:35.090 8280 Compacted 2@0 + 1@1 files => 109907 bytes
-2025/08/29-11:08:35.091 8280 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/29-11:08:35.092 8280 Delete type=2 #29
-2025/08/29-11:08:35.092 8280 Delete type=2 #87
-2025/08/29-11:08:35.092 8280 Delete type=2 #90
-2025/08/29-11:08:35.093 8280 Manual compaction at level-0 from '!items!u5OQWczvxDiiYH4s' @ 638 : 1 .. '!items.effects!mBaXmXtd9tm9SZsA.0rWmAHajR43A14Eg' @ 0 : 0; will stop at (end)
+2025/08/29-18:25:54.379 2ec8 Log #102: 22 ops saved to Table #103 OK
+2025/08/29-18:25:54.382 2ec8 Archiving D:\FoundryVTT\v12\Data\modules\frozedon-fabula-homebrew-compendium\packs\class-skills/000102.log: OK
+2025/08/29-18:25:54.383 2ec8 Table #100: 149 entries OK
+2025/08/29-18:25:54.383 2ec8 Table #103: 22 entries OK
+2025/08/29-18:25:54.390 2ec8 Archiving D:\FoundryVTT\v12\Data\modules\frozedon-fabula-homebrew-compendium\packs\class-skills/MANIFEST-000101: OK
+2025/08/29-18:25:54.400 2ec8 **** Repaired leveldb D:\FoundryVTT\v12\Data\modules\frozedon-fabula-homebrew-compendium\packs\class-skills; recovered 2 files; 136072 bytes. Some data may have been lost. ****
