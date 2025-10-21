@@ -8,7 +8,7 @@
         }
     ],
 	"description": "Various Homebrew Classes and Items to use in Fabula Ultima.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minimumCoreVersion": "11",
 	"compatibleCoreVersion": "12",
 	"compatibility": {
@@ -17,7 +17,7 @@
 	},
 	"url": "https://github.com/Frozedon/FabulaUltimaHomebrewCompendium",
 	"manifest": "https://github.com/Frozedon/FabulaUltimaHomebrewCompendium/releases/latest/download/module.json",
-	"download": "https://github.com/Frozedon/FabulaUltimaHomebrewCompendium/releases/download/1.0.0/module.zip",
+	"download": "https://github.com/Frozedon/FabulaUltimaHomebrewCompendium/releases/download/1.0.1/module.zip",
 	"packs": [
 		{
 			"label": "Classes",
