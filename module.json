@@ -54,6 +54,18 @@
 		  "flags": {}
 		},
 		{
+		  "label": "Heroic Style Skills",
+		  "type": "Item",
+		  "name": "heroic-style-skills",
+		  "path": "packs/heroic-style-skills",
+		  "system": "projectfu",
+		  "ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+		  },
+		  "flags": {}
+		},
+		{
 			"label": "Effects",
 			"type": "Item",
 			"name": "effects",
@@ -75,7 +87,7 @@
 					"name": "Character Creation",
 					"sorting": "m",
 					"color": "#2e8f28",
-					"packs": ["classes", "class-skills", "heroic-skills"]
+					"packs": ["classes", "class-skills", "heroic-skills", "heroic-style-skills"]
 				},
 				{
 					"name": "Technical",
